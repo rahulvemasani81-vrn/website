@@ -26,6 +26,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 # PROGRAM:
+~~~
 index.html
 
 <html>
@@ -521,6 +522,7 @@ menu.html
     </footer>
 </body>
 </html>
+~~~
 
 
 
